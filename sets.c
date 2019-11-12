@@ -7,7 +7,7 @@ struct node
     int value;
     struct node *next;
 };
-//sample comment
+
 typedef struct node element;
 
 //Creates a node and returns it to the calling function.
